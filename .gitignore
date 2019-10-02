@@ -1,0 +1,10 @@
+*.pyc
+node_modules*
+ENV*
+.venv
+static/images*
+*.sublime-project
+*.sublime-workspace
+package-lock.json
+*.sass-cache
+static/js/build
