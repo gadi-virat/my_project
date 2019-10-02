@@ -1,0 +1,30 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.2.0",
+    "handlebars": "^4.4.0",
+    "handlebars-loader": "^1.7.1",
+    "webpack": "^4.41.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadi-virat/my_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadi-virat/my_project/issues"
+  },
+  "homepage": "https://github.com/gadi-virat/my_project#readme"
+}
